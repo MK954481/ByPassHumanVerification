@@ -14,6 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 pip install selenium
+
 pip install webdriver-manager
 
 ### Run
